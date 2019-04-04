@@ -9,7 +9,7 @@ class Menu extends Component {
         <Navbar/>
         <header className="smimg w3-display-container w3-grayscale-min">
         </header>
-        <div className="w3-container w3-padding-64 w3-xlarge">
+        <div className="w3-container w3-padding-64 w3-large">
           <div className="w3-content">
             <h3 className="w3-center w3-xlarge" style={{marginBottom:'64px'}}>The Menu</h3>
             <div className="w3-row w3-center w3-black w3-border w3-border-dark-grey">
